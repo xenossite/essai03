@@ -7,6 +7,6 @@ namespace AppliCinema
 {
     public class Cinema
     {
-
+        string test;
     }
 }
