@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliCinema", "AppliCinema\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaWPF", "CinemaWPF\CinemaWPF.csproj", "{90710204-1D48-477B-8F85-35ADF522D103}"
 EndProject
-Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "AnalyseProjetCinema", "..\..\AnalyseProjetCinema\AnalyseProjetCinema.modelproj", "{93B46900-9656-40C8-9011-94AB3ADE9613}"
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "AnalyseProjetCinema", "E:\AnalyseProjetCinema\AnalyseProjetCinema.modelproj", "{93B46900-9656-40C8-9011-94AB3ADE9613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
